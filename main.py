@@ -69,8 +69,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-print('первый-коммит')
-
-print('Второй коммит')
